@@ -14,7 +14,7 @@ particlesJS.load('particles', 'assets/particles.json');
 // Minecraft players status
 MinecraftAPI.getServerStatus(document.getElementById('server-ip').innerHTML, { port: 26007 }, (error, status) => {
     if (error) {
-        return document.getElementById('server-status').innerHTML = 'Error Loading Status!';
+        return document.getElementById('server-status').innerHTML = 'Σφάλμα με την φόρτωση του Server!';
     }
     document.getElementById('server-players').innerHTML = status.players.now;
 });
