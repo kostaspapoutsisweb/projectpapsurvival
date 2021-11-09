@@ -12,7 +12,7 @@ wrapper.addEventListener('mousemove', (event) => {
 particlesJS.load('particles', 'assets/particles.json');
 
 // Minecraft players status
-MinecraftAPI.getServerStatus(document.getElementById('server-ip').innerHTML, { port: 26007 }, (error, status) => {
+MinecraftAPI.getServerStatus(document.getElementById('server-ip').innerHTML, { port: 26187 }, (error, status) => {
     if (error) {
         return document.getElementById('server-status').innerHTML = 'Σφάλμα με την φόρτωση του Server!';
     }
