@@ -1,7 +1,5 @@
 # Project PAP Survival repository!
 
-Discord: ['https:/discord.gg/']
-
 Εδώ μπορείτε να βρείτε ως open source τα αρχεία για το projectpapsurvival.gq που είναι το site του Minecraft server μας με σκοπό να βοηθήσετε στην ανάπτυξή του!
 
 |Ερωτήσεις                                      |Απαντήσεις                                                                                                                                     |
