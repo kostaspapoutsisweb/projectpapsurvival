@@ -4,9 +4,9 @@
 
 ![Thumbnail of Project PAP Survival](docs/media/android-chrome-192x192.png)
   
-## Τι είναι τα έργα ανοιχτού κώδικα
+## Κάνοντας ένα suggest
 
-Τα έργα ανοιχτού κώδικα είναι έργα που ο κώδικάς τους είναι διαθέσιμος σε όλους με σκοπό να βάλουν και εκείνοι το δικό τους κομμάτι κώδικα ώστε να βοηθήσουν στην ανάπτυξη τους.
+Μπορείτε να ανοίξετε ένα suggest issue για το site [εδώ](https://github.com/kostaspapoutsisweb/projectpapsurvival/issues/new).
 
 ## Γιατί έχετε κάνει το official site του Minecracft Server σας ανοιχτού κώδικα
 
