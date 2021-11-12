@@ -8,6 +8,6 @@
 
 Μπορείτε να ανοίξετε ένα suggest issue για το site [εδώ](https://github.com/kostaspapoutsisweb/projectpapsurvival/issues/new).
 
-## Γιατί έχετε κάνει το official site του Minecracft Server σας ανοιχτού κώδικα
+## Αναφέρωντας ένα bug
 
-Επειδή όπως καταλάβατε έχουμε και έναν Minecraft Server και δουλεύουμε σε αυτόν για να μην υπάρχουν προβλήματα με τους παίκτες δεν έχουμε αρκετό χρόνο να ασχοληθούμε με το site και άλλο ένα πρόβλημα είναι η έλειψη budget οπότε δεν μπορούμε να αναθέσουμε όλη αυτή την δουλειά σε προγραμματιστή ή ομάδα προγραμματιστών και έτσι το κάναμε open source για να μας βοηθήσετε εσείς εάν γνωρίζετε έστω και τα βασικά από προγραμματισμό για website!
+Εντοπίσατε ένα bug στην λειτουργία του site μας; Ανοίξτε ένα bug issue [εδώ](https://github.com/kostaspapoutsisweb/projectpapsurvival/issues/new).
