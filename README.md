@@ -2,7 +2,7 @@
 
 *Το Project PAP Survival είναι το επίσημο site του server μας και φιλοξενείτε από το GitHub Pages. Αυτή την στιγμή όλες οι υπηρεσίες που είχαν ξεκινήσει σε open source έκλεισαν καθώς το site ξεκινάει να στήνεται εκ νέου.*
 
-![Thumbnail of Project PAP Survival](assets/logo.png)
+![Thumbnail of Project PAP Survival](logo.png)
 
 ## Πότε θα ξανά τεθούν σε λειτουργία οι υπηρεσίες open source
 
