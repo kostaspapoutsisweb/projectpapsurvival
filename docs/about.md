@@ -5,9 +5,9 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Αυτό είναι το επίσημο site του Minecraft Server του καναλιού [Project PAP](https://projectpap.gq).
 
-[GitHub](https://github.com/coffeebank/moonrise)
+[Πηγαίνετε στο repository μας](https://github.com/kostaspapoutsisweb/projectpapsurvival) (open source)
 
 
 # Terms of Use
