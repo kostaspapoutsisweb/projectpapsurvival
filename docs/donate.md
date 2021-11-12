@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://webstore.projectpapsurvival.gq
+tourl: https://store.projectpapsurvival.gq
 ---
