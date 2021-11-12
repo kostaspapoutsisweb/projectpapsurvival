@@ -2,9 +2,7 @@
 
 *Το Project PAP Survival είναι το επίσημο site του server μας και φιλοξενείτε από το GitHub Pages. Αυτή την στιγμή όλες οι υπηρεσίες που είχαν ξεκινήσει σε open source έκλεισαν καθώς το site ξεκινάει να στήνεται εκ νέου.*
 
-<center>
 ![Thumbnail of Project PAP Survival](docs/media/android-chrome-192x192.png)
-</center>
   
 ## Τι είναι τα έργα ανοιχτού κώδικα
 
