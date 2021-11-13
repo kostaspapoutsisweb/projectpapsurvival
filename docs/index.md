@@ -11,4 +11,8 @@ cellLinks:
   - cname: Webstore
     curl: donate
     cimage: media/demo04.jpg
+
+  - cname: Κάντε μας πρόταση για τον Server
+    curl: suggest
+    cimage: media/demo02.jpg
 ---
