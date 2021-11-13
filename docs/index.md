@@ -15,4 +15,8 @@ cellLinks:
   - cname: Κάντε μας πρόταση για τον Server
     curl: suggest
     cimage: media/demo02.jpg
+
+  - cname: Οι κανόνες μας
+    curl: rules
+    cimage: media/rules.jpg
 ---
