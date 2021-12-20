@@ -19,4 +19,8 @@ cellLinks:
   - cname: Οι κανόνες μας
     curl: rules
     cimage: media/rules.jpg
+    
+  - cname: Ο επίσημος ιστότοπός μας
+    curl: https://wp.projectpapsurvival.gq
+    cimage: media/minecraftsite.png
 ---
